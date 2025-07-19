@@ -11,13 +11,15 @@ Single-cell RNA sequencing enables the measurement of whole-transcriptome gene e
 ## Dependency
 
 * Pytorch 2.4.1+cu121
-* Numpy  1.24.3
 * Torchvision 0.19.1+cu121
 * Matplotlib 3.7.5
+* numpy  1.24.3
 * h5py  3.9.0
 * pandas 1.3.5
 * scanpy 1.9.8
 * scipy 1.10.1
+* scikit-learn 1.2.2
+* networkx 2.6.3
 
 ## Installation
 
